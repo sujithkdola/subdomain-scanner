@@ -11,8 +11,12 @@ Requests
 
 <Code>pip install requests</code>
 
-Usage
+Or
 
+<Code>conda install requests</code>
+_____
+Usage
+_____
 <Code>python subdomainscanner.py </code>
 ___________
 Contribute
