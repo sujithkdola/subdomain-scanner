@@ -4,6 +4,7 @@ A tool to scan subdomains of a website
 Made using python 
 
 prerequisite python modules
+____________________________
 
 Requests
 
@@ -14,5 +15,5 @@ Usage
 <Code>python subdomainscanner.py </code>
 
 Contribute
-
+___________
 Contributions are always accepted
