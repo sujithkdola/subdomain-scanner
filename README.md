@@ -1,5 +1,7 @@
 # subdomain-scanner
-____________________
+
+<IMG>https://img.shields.io/badge/Version-1.1-brightgreen</IMG>
+___________________
 A tool to scan subdomains of a website 
 
 Made using python 
