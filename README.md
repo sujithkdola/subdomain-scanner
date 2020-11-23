@@ -1,6 +1,5 @@
 # subdomain-scanner
 
-![Image of version]
 (https://img.shields.io/badge/Version-1.1-brightgreen)
 ___________________
 A tool to scan subdomains of a website 
